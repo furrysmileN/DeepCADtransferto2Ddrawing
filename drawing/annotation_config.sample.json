@@ -1,0 +1,16 @@
+{
+  "sheet": {
+    "size": "A3",
+    "width": 420.0,
+    "height": 297.0
+  },
+  "title": "DeepCAD 2D Drawing",
+  "scale": "1:1",
+  "drawing_no": "DC-0001",
+  "notes": [
+    "UNSPECIFIED FILLET: R0.5",
+    "UNSPECIFIED CHAMFER: C0.5x45deg",
+    "GENERAL TOLERANCE: GB/T 1804-m",
+    "SURFACE ROUGHNESS: Ra3.2"
+  ]
+}
